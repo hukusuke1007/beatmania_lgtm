@@ -15,90 +15,74 @@
 <img src="4.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/5.jpg" />
+<img src="5.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="6.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/7.jpg" />
+<img src="7.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/8.jpg" />
+<img src="8.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/9.jpg" />
+<img src="9.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/10.jpg" />
+<img src="10.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/11.jpg" />
+<img src="11.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/12.jpg" />
+<img src="12.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/13.jpg" />
+<img src="13.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/14.jpg" />
+<img src="14.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/15.jpg" />
+<img src="15.jpeg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="16.jpeg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="17.jpeg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="18.jpeg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="19.jpeg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="20.jpeg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="21.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="22.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="23.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="24.jpg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="25.jpeg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="26.jpeg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
+<img src="27.jpeg" />
 
 
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
-
-
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
-
-
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
-
-
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
-
-
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
-
-
-<img src="https://github.com/hukusuke1007/beatmania_lgtm/blob/master/6.jpg" />
-
+<img src="28.jpeg" />
 
